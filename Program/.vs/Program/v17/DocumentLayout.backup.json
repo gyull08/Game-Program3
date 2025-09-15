@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wldi0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D07C78FA-3283-40A6-AC1D-5C1D6164089F}|Program\\Program.vcxproj|C:\\Users\\wldi0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D07C78FA-3283-40A6-AC1D-5C1D6164089F}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\wldi0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\wldi0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\Program\\Program.cpp",
+              "RelativeToolTip": "Program\\Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T09:13:31.512Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 5,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
